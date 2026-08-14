@@ -10,6 +10,3 @@
 *.synctex.gz
 *.bcf
 *.run.xml
-
-# Compiled PDF
-*.pdf
